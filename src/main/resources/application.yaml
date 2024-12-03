@@ -1,0 +1,8 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /ata
+
+spring:
+  jackson:
+    property-naming-strategy: SNAKE_CASE
